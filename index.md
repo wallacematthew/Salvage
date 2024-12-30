@@ -1,6 +1,7 @@
 ---
 title: Welcome to Salvage
 layout: home
+nav_order: 1
 ---
 
 # Welcome to Salvage
